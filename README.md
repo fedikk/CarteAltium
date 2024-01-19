@@ -10,6 +10,7 @@ Ce projet a pour objectif de partager mon apprentissage de l'utilisation du logi
 
 - [Apprentissage d'Altium Designer](#apprentissage-daltium-designer)
 - [Fichiers Sources](#fichiers-sources)
+- [Differentes Vue du PCB](#vue-2d-et-3d-de-la-carte-pcb)
 - [Contributions](#contributions)
 - [Licence](#licence)
 
@@ -19,13 +20,16 @@ Au cours de ce projet, j'ai créé un guide complet sous format PowerPoint qui t
 
 Le guide est disponible dans le répertoire [Guide](Guide/). N'hésitez pas à le consulter pour obtenir des instructions détaillées sur l'utilisation d'Altium Designer dans le contexte de ce projet.
 
-N'oubliez pas de télécharger le fichier [User Guide](Guide/Realisation d'une carte PCB by kouki fedi.pdf) pour accéder au guide complet.
+N'oubliez pas de télécharger le fichier [Realisation d'une carte PCB by kouki fedi.pdf](Guide/Realisation%20d'une%20carte%20PCB%20by%20kouki%20fedi.pdf) pour accéder au guide complet.
 
 
 ## Fichiers Sources
 
 Les fichiers sources, tels que les schémas, les fichiers de routage, et autres, sont disponibles dans le répertoire [Main](Main/).
 
+## Vue 2D et 3D de la Carte PCB
+![motor driver 3d](https://github.com/fedikk/CarteAltium/assets/98516504/08c4c23e-a878-4fc1-a895-1315d7c03603)
+![motor driver 2d](https://github.com/fedikk/CarteAltium/assets/98516504/5161441f-99e3-42a0-9e88-8b35dbc8a8d4)
 
 ## Contributions
 
