@@ -1,6 +1,6 @@
 # Projet de Conception de Carte Électronique avec Altium Designer
 
-![Altium Designer]([path/to/altium_image.png](https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/18189621-3f7a-435f-8a02-462efb2cec41.jpeg?auto=format,compress&size=50))
+![Altium Designer](https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/18189621-3f7a-435f-8a02-462efb2cec41.jpeg?auto=format,compress&size=50)
 
 ## Aperçu
 
