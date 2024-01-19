@@ -1,41 +1,39 @@
-# Projet de Conception de Carte Électronique avec Altium Designer
+# Electronic Board Design Project with Altium Designer
 
-![Altium Designer]( https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_55da269609bde6556a387629b0594314/altium-altium-designer.png )
+![Altium Designer](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_55da269609bde6556a387629b0594314/altium-altium-designer.png)
 
-## Aperçu
+## Overview
 
-Ce projet a pour objectif de partager mon apprentissage de l'utilisation du logiciel Altium Designer pour la conception de cartes électroniques. Au cours de ce projet, j'ai acquis des compétences essentielles pour réaliser la conception d'une carte électronique à l'aide d'Altium Designer.
+This project aims to share my learning experience in using Altium Designer software for electronic board design. Throughout this project, I have acquired essential skills to undertake the design of an electronic board using Altium Designer.
 
-## Contenu du Projet
+## Project Content
 
-- [Apprentissage d'Altium Designer](#apprentissage-daltium-designer)
-- [Fichiers Sources](#fichiers-sources)
-- [Differentes Vue du PCB](#vue-2d-et-3d-de-la-carte-pcb)
+- [Altium Designer Learning](#learning-altium-designer)
+- [Source Files](#source-files)
+- [Different Views of the PCB](#2d-and-3d-view-of-the-pcb)
 - [Contributions](#contributions)
-- [Licence](#licence)
+- [License](#license)
 
-## Apprentissage d'Altium Designer
+## Learning Altium Designer
 
-Au cours de ce projet, j'ai créé un guide complet sous format PowerPoint qui traduit les différentes étapes de réalisation d'une carte électronique avec Altium Designer. Ce guide est conçu pour aider les débutants à comprendre les concepts fondamentaux et à suivre un processus étape par étape pour la conception de cartes électroniques.
+During this project, I created a comprehensive guide in PowerPoint format, translating the various steps involved in creating an electronic board with Altium Designer. This guide is designed to assist beginners in understanding fundamental concepts and following a step-by-step process for electronic board design.
 
-Le guide est disponible dans le répertoire [Guide](Guide/). N'hésitez pas à le consulter pour obtenir des instructions détaillées sur l'utilisation d'Altium Designer dans le contexte de ce projet.
+The guide is available in the [Guide](Guide/) directory. Feel free to consult it for detailed instructions on using Altium Designer in the context of this project.
 
-N'oubliez pas de télécharger le fichier [Realisation d'une carte PCB by kouki fedi.pdf](Guide/Realisation%20d'une%20carte%20PCB%20by%20kouki%20fedi.pdf) pour accéder au guide complet.
+Don't forget to download the file [Realisation d'une carte PCB by kouki fedi.pdf](Guide/Realisation%20d'une%20carte%20PCB%20by%20kouki%20fedi.pdf) to access the complete guide.
 
+## Source Files
 
-## Fichiers Sources
+Source files, including schematics, routing files, and more, are available in the [Main](Main/) directory.
 
-Les fichiers sources, tels que les schémas, les fichiers de routage, et autres, sont disponibles dans le répertoire [Main](Main/).
-
-## Vue 2D et 3D de la Carte PCB
-![motor driver 3d](https://github.com/fedikk/CarteAltium/assets/98516504/08c4c23e-a878-4fc1-a895-1315d7c03603)
-![motor driver 2d](https://github.com/fedikk/CarteAltium/assets/98516504/5161441f-99e3-42a0-9e88-8b35dbc8a8d4)
+## 2D and 3D View of the PCB
+![Motor Driver 3D](https://github.com/fedikk/CarteAltium/assets/98516504/08c4c23e-a878-4fc1-a895-1315d7c03603)
+![Motor Driver 2D](https://github.com/fedikk/CarteAltium/assets/98516504/5161441f-99e3-42a0-9e88-8b35dbc8a8d4)
 
 ## Contributions
 
-Si vous souhaitez contribuer à ce projet en proposant des améliorations, en corrigeant des erreurs, ou en ajoutant de nouvelles fonctionnalités, veuillez consulter le guide de contribution dans [CONTRIBUTING.md](CONTRIBUTING.md).
+If you'd like to contribute to this project by suggesting improvements, correcting errors, or adding new features, please refer to the contribution guide in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## Licence
+## License
 
-Ce projet est sous licence [MIT](LICENSE) - consultez le fichier [LICENSE](LICENSE) pour plus de détails.
-
+This project is licensed under the [MIT License](LICENSE) - refer to the [LICENSE](LICENSE) file for more details.
