@@ -1,6 +1,6 @@
 # Projet de Conception de Carte Électronique avec Altium Designer
 
-![Altium Designer](https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/18189621-3f7a-435f-8a02-462efb2cec41.jpeg?auto=format,compress&size=50)
+![Altium Designer]( https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_55da269609bde6556a387629b0594314/altium-altium-designer.png )
 
 ## Aperçu
 
@@ -10,7 +10,6 @@ Ce projet a pour objectif de partager mon apprentissage de l'utilisation du logi
 
 - [Apprentissage d'Altium Designer](#apprentissage-daltium-designer)
 - [Fichiers Sources](#fichiers-sources)
-- [Documentation](#documentation)
 - [Contributions](#contributions)
 - [Licence](#licence)
 
@@ -18,14 +17,14 @@ Ce projet a pour objectif de partager mon apprentissage de l'utilisation du logi
 
 Au cours de ce projet, j'ai créé un guide complet sous format PowerPoint qui traduit les différentes étapes de réalisation d'une carte électronique avec Altium Designer. Ce guide est conçu pour aider les débutants à comprendre les concepts fondamentaux et à suivre un processus étape par étape pour la conception de cartes électroniques.
 
-Le guide est disponible dans le répertoire [docs/guide_altium.pptx](Guide/Realisation d'une carte PCB by kouki fedi.pdf). N'hésitez pas à le consulter pour obtenir des instructions détaillées sur l'utilisation d'Altium Designer dans le contexte de ce projet.
+Le guide est disponible dans le répertoire [Guide](Guide/). N'hésitez pas à le consulter pour obtenir des instructions détaillées sur l'utilisation d'Altium Designer dans le contexte de ce projet.
 
-N'oubliez pas de télécharger le fichier [Realisation d'une carte PCB by kouki fedi.pdf](Guide/Realisation d'une carte PCB by kouki fedi.pdf) pour accéder au guide complet.
+N'oubliez pas de télécharger le fichier [User Guide](Guide/Realisation d'une carte PCB by kouki fedi.pdf) pour accéder au guide complet.
 
 
 ## Fichiers Sources
 
-Les fichiers sources, tels que les schémas, les fichiers de routage, et autres, sont disponibles dans le répertoire [main](main/).
+Les fichiers sources, tels que les schémas, les fichiers de routage, et autres, sont disponibles dans le répertoire [Main](Main/).
 
 
 ## Contributions
